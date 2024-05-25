@@ -8,3 +8,7 @@ func();
 
 i = 6;
 console.log(i);
+
+const newvar = 8;
+
+console.log(newvar);

@@ -5,13 +5,15 @@
 func2 = () => {
     console.log('this is function 2');
 
-    return "returning some value";
+    return null;
 }
 
 func1 = (func2) => {
     console.log('this is function 1');
 
-    console.log(func2());
+    const ans = func2();
+
+    console.log(ans);
 }
 
 func1(func2);

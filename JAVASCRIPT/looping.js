@@ -58,3 +58,8 @@ const result = impFigures.filter(filtering);
 result.forEach((element) => {
     console.log(element.firstName);
 })
+
+// if we use find instead of filter, you'll find the very first matching data 
+
+const findRes = impFigures.find(filtering);
+console.log('find res is', findRes);

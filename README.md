@@ -1,1 +1,1 @@
-Just learning some cool things in we dev. Thought should save on my repo
+Just learning some cool things in web dev. Thought should save on my repo
